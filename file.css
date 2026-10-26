@@ -4,3 +4,24 @@
     padding: 0cm;
     box-sizing: border-box;
 }
+
+
+body{
+
+
+    background-color: var(--var_1_background-color);
+
+}
+
+a:visited{
+
+    color: var(--var_2_-color);
+
+
+}
+
+html{
+    scroll-behavior: smooth;
+
+
+}
