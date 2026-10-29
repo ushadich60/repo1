@@ -1,4 +1,5 @@
 console.log("hello world");
+console.log("TimoLan2 prog");
 
 
   function goToPage_functionnn() {
