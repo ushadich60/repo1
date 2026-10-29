@@ -25,3 +25,31 @@ html{
 
 
 }
+
+
+
+@media screen and (max-width : 500px) {
+
+
+       body{
+
+        background-color: var(--var_3_background-color);
+
+    }
+
+    
+}
+
+
+
+/*
+@media (orientation: landscape){
+
+
+       body{
+
+        background-color: var(--var_2_-color);
+
+    }
+}
+    */
